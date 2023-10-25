@@ -11,10 +11,10 @@
 	</parent>
 
 	<groupId>com.promineotech</groupId>
-	<artifactId>final-project</artifactId>
+	<artifactId>final</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>final-project</name>
+	<name>final</name>
 	<description>Final Project</description>
 
 	<properties>
